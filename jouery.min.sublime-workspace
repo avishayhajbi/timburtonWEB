@@ -1,0 +1,311 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"padding"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"wid",
+				"border-bottom-width"
+			],
+			[
+				"text-",
+				"text-indent"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"i",
+				"infinite"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"s",
+				"solid"
+			],
+			[
+				"bgc",
+				"background-color"
+			],
+			[
+				"bgr",
+				"background-color"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"inli",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/zhrslh/Desktop/timburton-QgO7U/movies.html",
+		"/Users/zhrslh/Desktop/timburton-QgO7U/rashi.html",
+		"/Users/zhrslh/Desktop/timburton-QgO7U/mishne.html",
+		"/Users/zhrslh/Desktop/timburton-QgO7U/js/movies.html",
+		"/Users/zhrslh/Desktop/timburton-QgO7U/css/style.css",
+		"/Users/zhrslh/Desktop/timburton-QgO7U/mishne",
+		"/Users/zhrslh/Desktop/zz - text.html",
+		"/Users/zhrslh/Desktop/project_tim_burton/css/style.css",
+		"/Users/zhrslh/Desktop/project_tim_burton/html/zz.html",
+		"/Users/zhrslh/Desktop/style.css",
+		"/Users/zhrslh/Desktop/zz.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"150px",
+			"red",
+			"500px",
+			"animation",
+			";\n",
+			"55px",
+			"50px",
+			"3740px",
+			"145px",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "jouery.min.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
